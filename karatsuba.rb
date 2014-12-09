@@ -10,3 +10,5 @@ def multiply(x, y)
 end
 
 # Accepts 4 digit integers only.
+
+# Returns the multiplication of x & y.

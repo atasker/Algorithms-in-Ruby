@@ -5,3 +5,5 @@ def fibonacci(n)
     return fibonacci(n-1) + fibonacci(n-2)
   end
 end
+
+# Returns the nth number in the Fibonacci sequence.
